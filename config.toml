@@ -1,3 +1,66 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "harbor"
+baseurl = "https://athos.github.io/"
+title = "athos@dev"
+paginate = 5
+languageCode = "ja"
+DefaultContentLanguage = "ja"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+# Optional
+# If you use googleAnalytics, you set top-level options in config.toml to the beginning of the config file like other top-level options.
+# googleAnalytics = "UA-XXXXXXXX-XX"
+# and disqus too.
+# disqusShortName = "yourdisqusshortname"
+
+[Author]
+  name = "athos"
+
+[outputs]
+  section = ["JSON", "HTML"]
+
+[[params.nav]]
+  identifier = "about"
+  name = "About"
+  icon = "fas fa-user fa-lg"
+  url = "/about/"
+  weight = 3
+
+[[params.nav]]
+  identifier = "tags"
+  name = "Tags"
+  icon = "fas fa-tag fa-lg"
+  url = "tags"
+  weight = 3
+
+[[params.nav]]
+  identifier = "categories"
+  name = "Category"
+  icon = "fas fa-folder-open fa-lg"
+  url = "categories"
+  weight = 3
+
+[[params.nav]]
+  identifier = "search"
+  name = "Search"
+  icon = "fas fa-search fa-lg"
+  url = "search"
+  weight = 3
+
+# copy paste this block and change for each social media to add how many ever social media
+# acounts/links you want
+[[params.social]]
+  name="GitHub"
+  url="https://github.com/athos"
+  icon="github"
+
+[[params.social]]
+  name="Twitter"
+  url="https://twitter.com/athos0220"
+  icon="twitter"
+
+[params.logo]
+  url = "athos.png" # static/images/icon.png
+  width = 50
+  height = 50
+  alt = "Logo"
