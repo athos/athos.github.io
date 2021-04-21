@@ -60,7 +60,7 @@ footnoteReturnLinkContents = "^"
   icon="twitter"
 
 [params.logo]
-  url = "athos.png" # static/images/icon.png
+  url = "DontCount.png" # static/images/icon.png
   width = 50
   height = 50
   alt = "Logo"
