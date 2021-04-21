@@ -1,7 +1,7 @@
 theme = "harbor"
 baseurl = "https://athos.github.io/"
-title = "athos@dev"
-paginate = 5
+title = "Uninterned Days"
+paginate = 3
 languageCode = "ja"
 DefaultContentLanguage = "ja"
 enableInlineShortcodes = true
