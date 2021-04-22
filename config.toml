@@ -16,6 +16,9 @@ footnoteReturnLinkContents = "^"
 [Author]
   name = "athos"
 
+[permalinks]
+  post = "/post/:year/:month/:day/:filename"
+
 [outputs]
   section = ["JSON", "HTML"]
 
@@ -24,6 +27,13 @@ footnoteReturnLinkContents = "^"
   name = "About"
   icon = "fas fa-user fa-lg"
   url = "/about/"
+  weight = 3
+
+[[params.nav]]
+  identifier = "posts"
+  name = "Posts"
+  icon = "fas fa-list-alt fa-lg"
+  url = "post"
   weight = 3
 
 [[params.nav]]
@@ -58,6 +68,9 @@ footnoteReturnLinkContents = "^"
   name="Twitter"
   url="https://twitter.com/athos0220"
   icon="twitter"
+
+[params]
+  mainSections = ["post"]
 
 [params.logo]
   url = "DontCount.png" # static/images/icon.png
