@@ -85,6 +85,7 @@ footnoteReturnLinkContents = "^"
 
 [params]
   mainSections = ["post"]
+  customCSS = ["/css/custom.css"]
 
 [params.logo]
   url = "DontCount.png" # static/images/icon.png

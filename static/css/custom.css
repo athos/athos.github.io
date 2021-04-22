@@ -1,0 +1,18 @@
+.intro-header [class$="-heading"] h1 {
+    font-size: 40px !important;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Roboto', Helvetica, sans-serif;
+    color: #3c2f0e !important;
+}
+
+pre {
+  margin: 15px 0 !important;
+}
+
+p code, li code {
+  padding: 0.1em 0.2em !important;
+  color: #880011 !important;
+  font-family: "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
+}
