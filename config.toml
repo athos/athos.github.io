@@ -3,7 +3,8 @@ baseurl = "https://athos.github.io/"
 title = "Uninterned Days"
 paginate = 3
 languageCode = "ja"
-DefaultContentLanguage = "ja"
+DefaultContentLanguage = "en"
+hasCJKLanguage = true
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 
@@ -18,9 +19,10 @@ footnoteReturnLinkContents = "^"
 
 [permalinks]
   post = "/post/:year/:month/:day/:filename"
+  page = "/:filename"
 
 [outputs]
-  section = ["JSON", "HTML"]
+  section = ["JSON", "HTML", "RSS"]
 
 [[params.nav]]
   identifier = "about"
@@ -86,6 +88,6 @@ footnoteReturnLinkContents = "^"
 
 [params.logo]
   url = "DontCount.png" # static/images/icon.png
-  width = 50
-  height = 50
+  width = 40
+  height = 40
   alt = "Logo"
