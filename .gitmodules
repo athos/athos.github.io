@@ -1,3 +1,6 @@
 [submodule "themes/harbor"]
 	path = themes/harbor
 	url = https://github.com/matsuyoshi30/harbor.git
+[submodule "themes/meme"]
+	path = themes/meme
+	url = git@github.com:reuixiy/hugo-theme-meme.git
