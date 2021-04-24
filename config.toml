@@ -95,7 +95,7 @@ enableEmoji = true
   #   pre = "internal"
   #   post = "home"
   [[menu.main]]
-    url = "/posts/"
+    url = "/post/"
     name = "Posts"
     weight = 2
     pre = "internal"
