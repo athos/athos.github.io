@@ -774,7 +774,7 @@ enableEmoji = true
   # Footer
   fontFamilyFooter = ""
   # Body
-  fontFamilyBody = "'IBM Plex Serif', serif"
+  fontFamilyBody = "Helvetica Neue,Helvetica,Arial,Hiragino Kaku Gothic Pro,Meiryo,MS PGothic,sans-serif"
 
   # Embed fonts link
   fontsLink = "https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Comfortaa:wght@700&display=swap"
