@@ -1,10 +1,8 @@
----
-title: "Criteriumはevalのベンチマークには使えない"
-date: 2017-07-05T09:59:06+09:00
-tags: ["TIL","Clojure"]
-draft: false
-backtotop: true
----
++++
+title = "Criteriumはevalのベンチマークには使えない"
+date = 2017-07-05T09:59:06+09:00
+tags = ["TIL","Clojure"]
++++
 
 ほとんどの人にとっては誰得情報かと思いますが。。。
 

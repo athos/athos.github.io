@@ -1,10 +1,8 @@
----
-title: "ByteBufferの使用がバイナリ互換性を破壊するケース"
-date: 2018-12-12T20:05:43+09:00
-tags: ["TIL","Clojure"]
-draft: false
-backtotop: true
----
++++
+title = "ByteBufferの使用がバイナリ互換性を破壊するケース"
+date = 2018-12-12T20:05:43+09:00
+tags = ["TIL","Clojure"]
++++
 
 ClojureコードをコンパイルするとJVMバイトコードが生成される。一般的には、使用するClojureのパージョンさえ固定すれば、
 どのような環境でコンパイルしてもコンパイル結果として得られるバイトコードは基本的に同じはずだ。

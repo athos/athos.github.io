@@ -1,10 +1,8 @@
----
-title: "ClojureScriptマクロからコンパイラオプションを参照する"
-date: 2017-09-08T13:44:21+09:00
-tags: ["TIL","ClojureScript"]
-draft: false
-backtotop: true
----
++++
+title = "ClojureScriptマクロからコンパイラオプションを参照する"
+date = 2017-09-08T13:44:21+09:00
+tags = ["TIL","ClojureScript"]
++++
 
 小ネタ。
 

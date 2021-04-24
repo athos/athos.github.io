@@ -1,10 +1,8 @@
----
-title: "Associativeな値の操作関数の等価な書き換え"
-date: 2016-06-21T17:24:46+09:00
-tags: ["TIL","Clojure"]
-draft: false
-backtotop: true
----
++++
+title = "Associativeな値の操作関数の等価な書き換え"
+date = 2016-06-21T17:24:46+09:00
+tags = ["TIL","Clojure"]
++++
 
 `update`や`update-in`が便利すぎてついつい使いすぎてしまう。
 気づくと「もっとストレートな書き方があるのに…」というパターン(`update`+`assoc`とか`update-in`+`update`とか)を書いていたりするのでちょっと整理してみた。

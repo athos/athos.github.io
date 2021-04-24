@@ -1,10 +1,8 @@
----
-title: "解決できないエイリアスをリードしたときにエラーにならないようにする"
-date: 2018-08-24T15:15:04+09:00
-tags: ["TIL","Clojure"]
-draft: false
-backtotop: true
----
++++
+title = "解決できないエイリアスをリードしたときにエラーにならないようにする"
+date = 2018-08-24T15:15:04+09:00
+tags = ["TIL","Clojure"]
++++
 
 Clojureの[MLからのネタ](https://groups.google.com/forum/#!topic/clojure/XrbBLynjpN8)。
 

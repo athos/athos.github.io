@@ -1,10 +1,8 @@
----
-title: "ClojureScript自身の開発のはじめかた"
-date: 2017-06-24T17:32:29+09:00
-tags: ["TIL","ClojureScript"]
-draft: false
-backtotop: true
----
++++
+title = "ClojureScript自身の開発のはじめかた"
+date = 2017-06-24T17:32:29+09:00
+tags = ["TIL","ClojureScript"]
++++
 
 ClojureScriptの[不具合らしき挙動](https://dev.clojure.org/jira/browse/CLJS-2119)に遭遇したのでパッチを作ろうとするも、
 普段cljsbuildやらFigwheelなんかのツールを介してしかClojureScriptに触れていないので、素のClojureScriptをどう動かせばいいのか

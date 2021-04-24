@@ -1,10 +1,8 @@
----
-title: "Clojarsの検索APIでライブラリ登録日によるフィルタリング"
-date: 2017-06-03T15:22:43+09:00
-tags: ["TIL","Clojure"]
-draft: false
-backtotop: true
----
++++
+title = "Clojarsの検索APIでライブラリ登録日によるフィルタリング"
+date = 2017-06-03T15:22:43+09:00
+tags = ["TIL","Clojure"]
++++
 
 <!--more-->
 

@@ -1,10 +1,8 @@
----
-title: "ClojureScriptコンパイラにまつわる「環境」あれこれ"
-date: 2017-08-14T21:00:17+09:00
-tags: ["TIL","ClojureScript"]
-draft: false
-backtotop: true
----
++++
+title = "ClojureScriptコンパイラにまつわる「環境」あれこれ"
+date = 2017-08-14T21:00:17+09:00
+tags = ["TIL","ClojureScript"]
++++
 
 ClojureScriptのREPLやeval、マクロ等のコンパイラが関わる部分には「環境」がいろいろ出てくる。
 compiler envやanalysis env、compiler stateというのもあるし、マクロの`&env`、

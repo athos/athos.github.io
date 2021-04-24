@@ -1,10 +1,8 @@
----
-title: "これからのClojureScriptの最もお手軽な起動方法？"
-date: 2017-08-19T00:22:01+09:00
-tags: ["TIL","ClojureScript"]
-draft: false
-backtotop: true
----
++++
+title = "これからのClojureScriptの最もお手軽な起動方法？"
+date = 2017-08-19T00:22:01+09:00
+tags = ["TIL","ClojureScript"]
++++
 
 先日の[EuroClojure](https://www.youtube.com/playlist?list=PLZdCLR02grLpzt6WENiHe16-vx74VbCw_)
 でのAlex Miller氏の基調講演で、[tools.deps.alpha](https://github.com/clojure/tools.deps.alpha)やそれを使った

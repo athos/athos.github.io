@@ -1,10 +1,8 @@
----
-title: "ReagentでエスケープされていないHTMLを埋め込む"
-date: 2016-05-18T16:24:59+09:00
-tags: ["TIL","ClojureScript"]
-draft: false
-backtotop: true
----
++++
+title = "ReagentでエスケープされていないHTMLを埋め込む"
+date = 2016-05-18T16:24:59+09:00
+tags = ["TIL","ClojureScript"]
++++
 
 ClojureScriptのOmラッパーのひとつであるReagentでは、DOMをClojureScriptのデータ(ベクタやマップ)として書く。
 

@@ -1,10 +1,8 @@
----
-title: "ClojureScriptでテストが失敗したときにexit(1)する"
-date: 2018-08-12T11:23:53+09:00
-tags: ["TIL","ClojureScript"]
-draft: false
-backtotop: true
----
++++
+title = "ClojureScriptでテストが失敗したときにexit(1)する"
+date = 2018-08-12T11:23:53+09:00
+tags = ["TIL","ClojureScript"]
++++
 
 CIでテストを回す場合、テストに失敗したときにCI自体も失敗してくれると嬉しい。
 

@@ -1,10 +1,8 @@
----
-title: "name関数は文字列を受け取る"
-date: 2016-05-17T15:44:16+09:00
-tags: ["TIL","Clojure"]
-draft: false
-backtotop: true
----
++++
+title = "name関数は文字列を受け取る"
+date = 2016-05-17T15:44:16+09:00
+tags = ["TIL","Clojure"]
++++
 
 タイトルの通り。
 
