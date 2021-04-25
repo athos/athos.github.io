@@ -17,11 +17,10 @@ enableEmoji = true
   post = "/post/:year/:month/:day/:filename"
   page = "/:filename"
 
-[author]
+[Author]
   name = "athos"
   email = "athos0220@gmail.com"
-  motto = "Viva La Vida"
-  avatar = "/icons/apple-touch-icon.png"
+  avatar = "/images/DontCount.png"
   website = "https://github.com/athos"
   twitter = "athos0220"
 
@@ -206,13 +205,13 @@ enableEmoji = true
   # Site Info
 
   # Note: used for JSON-LD, Open Graph
-  siteLogo = "/icons/apple-touch-icon.png"
+  siteLogo = "/images/DontCount.png"
   # Note: used for HTML head meta, JSON-LD,
   #       Open Graph, Atom, RSS
-  siteDescription = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
+  siteDescription = "A blog on athos's life and habits"
   # ATTENTION: keep this format, change
   #            the number
-  siteCreatedTime = "1969-07-20T20:17:43+00:00"
+  siteCreatedTime = "2021-04-25T00:00:43+09:00"
   # Note: used for Twitter Cards
   siteTwitter = "athos0220"
 
