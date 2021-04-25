@@ -6,13 +6,6 @@
     weight = 1
 
 [[socials]]
-    id = "email"
-    url = "mailto:athos0220@gmail.com"
-    icon = "envelope"
-    title = "Email"
-    weight = 2
-
-[[socials]]
     id = "github"
     url = "https://github.com/athos"
     icon = "github"
