@@ -854,7 +854,7 @@ enableEmoji = true
   ######################################
   ## Small Caps
 
-  enableSmallCaps = true
+  enableSmallCaps = false
   # Note: apply to headings & post toc
   #       title only
   #       *global settings*
