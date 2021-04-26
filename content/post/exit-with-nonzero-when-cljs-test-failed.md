@@ -1,6 +1,7 @@
 +++
 title = "ClojureScriptでテストが失敗したときにexit(1)する"
 date = 2018-08-12T11:23:53+09:00
+categories = ["tech","programming"]
 tags = ["TIL","ClojureScript"]
 +++
 

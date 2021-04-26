@@ -1,6 +1,7 @@
 +++
 title = "ReagentでエスケープされていないHTMLを埋め込む"
 date = 2016-05-18T16:24:59+09:00
+categories = ["tech","programming"]
 tags = ["TIL","ClojureScript"]
 +++
 

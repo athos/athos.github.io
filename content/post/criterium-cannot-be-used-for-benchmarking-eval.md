@@ -1,6 +1,7 @@
 +++
 title = "Criteriumはevalのベンチマークには使えない"
 date = 2017-07-05T09:59:06+09:00
+categories = ["tech","programming"]
 tags = ["TIL","Clojure"]
 +++
 

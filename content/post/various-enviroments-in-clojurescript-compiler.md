@@ -1,6 +1,7 @@
 +++
 title = "ClojureScriptコンパイラにまつわる「環境」あれこれ"
 date = 2017-08-14T21:00:17+09:00
+categories = ["tech","programming"]
 tags = ["TIL","ClojureScript"]
 +++
 

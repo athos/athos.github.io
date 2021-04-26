@@ -1,6 +1,7 @@
 +++
 title = "解決できないエイリアスをリードしたときにエラーにならないようにする"
 date = 2018-08-24T15:15:04+09:00
+categories = ["tech","programming"]
 tags = ["TIL","Clojure"]
 +++
 

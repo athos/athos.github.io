@@ -1,6 +1,7 @@
 +++
 title = "name関数は文字列を受け取る"
 date = 2016-05-17T15:44:16+09:00
+categories = ["tech","programming"]
 tags = ["TIL","Clojure"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "ClojureScript自身の開発のはじめかた"
 date = 2017-06-24T17:32:29+09:00
+categories = ["tech","programming"]
 tags = ["TIL","ClojureScript"]
 +++
 

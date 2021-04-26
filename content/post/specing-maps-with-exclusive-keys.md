@@ -1,6 +1,7 @@
 +++
 title = "「2つのキーのどちらか一方のみを含むマップ」を表現するスペック"
 date = 2017-08-03T14:30:57+09:00
+categories = ["tech","programming"]
 tags = ["TIL","Clojure"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "これからのClojureScriptの最もお手軽な起動方法？"
 date = 2017-08-19T00:22:01+09:00
+categories = ["tech","programming"]
 tags = ["TIL","ClojureScript"]
 +++
 

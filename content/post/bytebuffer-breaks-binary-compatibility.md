@@ -1,6 +1,7 @@
 +++
 title = "ByteBufferの使用がバイナリ互換性を破壊するケース"
 date = 2018-12-12T20:05:43+09:00
+categories = ["tech","programming"]
 tags = ["TIL","Clojure"]
 +++
 

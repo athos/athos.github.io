@@ -1,6 +1,7 @@
 +++
 title = "Associativeな値の操作関数の等価な書き換え"
 date = 2016-06-21T17:24:46+09:00
+categories = ["tech","programming"]
 tags = ["TIL","Clojure"]
 +++
 
