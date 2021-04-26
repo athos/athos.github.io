@@ -271,7 +271,7 @@ enableEmoji = true
   #            `categoryBy` to `sections`
   enableTree = true
   # Display title of posts?
-  displayPosts = true
+  displayPosts = false
   # Display count of posts under each
   # category?
   displayPostsCount = true
@@ -616,7 +616,7 @@ enableEmoji = true
   displayExpiredDate = false
   expiredDateIcon = "calendar-times"
 
-  displayCategory = false
+  displayCategory = true
   categoryIcon = "folder"
   categoryDelimiter = "/"
 
