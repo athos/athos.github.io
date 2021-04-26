@@ -105,12 +105,12 @@ enableEmoji = true
     weight = 4
     pre = "internal"
     post = "tags"
-  [[menu.main]]
-    url = "/about/"
-    name = "About"
-    weight = 5
-    pre = "internal"
-    post = "user-circle"
+  # [[menu.main]]
+  #   url = "/about/"
+  #   name = "About"
+  #   weight = 5
+  #   pre = "internal"
+  #   post = "user-circle"
   [[menu.main]]
     weight = 6
     identifier = "theme-switcher"
