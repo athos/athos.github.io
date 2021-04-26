@@ -26,8 +26,11 @@ enableEmoji = true
 
 [related]
   [[related.indices]]
-    name = "tags"
+    name = "categories"
     weight = 100
+  [[related.indices]]
+    name = "tags"
+    weight = 95
   [[related.indices]]
     name = "date"
     weight = 10
@@ -99,6 +102,12 @@ enableEmoji = true
     weight = 2
     pre = "internal"
     post = "archive"
+  [[menu.main]]
+    url = "/categories"
+    name = "Categories"
+    weight = 3
+    pre = "internal"
+    post = "th"
   [[menu.main]]
     url = "/tags/"
     name = "Tags"
