@@ -32,7 +32,7 @@ Reference: https://en.wikipedia.org/wiki/RSS
         {{- end }}
         <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
         {{ with .OutputFormats.Get "SectionsRSS" -}}
-            <atom:link rel="self" type="{{ .MediaType }}" href="{{ .Permalink }}" />
+            {{ printf "<atom:link rel=\"self\" type=%q href=%q />" .MediaType .Permalink | safeHTML}}
         {{- end }}
         {{ range (where $pages "Section" "in" .Site.Params.mainSections) }}
             {{- $page := . -}}
