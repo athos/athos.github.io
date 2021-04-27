@@ -52,7 +52,7 @@ enableEmoji = true
   term = ["HTML"]
 
 [services.rss]
-  limit = -1
+  limit = 30
 
 ##########################################
 # Menu Settings
