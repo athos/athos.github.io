@@ -487,13 +487,13 @@ enableEmoji = true
   # Note: render only in production
   #       environment
 
-  enableComments = false
+  enableComments = true
   # Note: *global settings*
   #       `comments` in post’s Front Matter
   #       has a higher priority than here
 
   # directly load the comments after pages loaded
-  autoLoadComments = false
+  autoLoadComments = true
 
   ## Disqus
   enableDisqus = false
@@ -504,12 +504,12 @@ enableEmoji = true
   # Note: https://valine.js.org/
 
   ## Utterances
-  enableUtterances = false
-  utterancesRepo = ""
+  enableUtterances = true
+  utterancesRepo = "athos/athos.github.io"
   utterancesIssueTerm = "pathname"
   utterancesTheme = "github-light"
   utterancesThemeDark = "photon-dark"
-  utterancesLabel = ""
+  utterancesLabel = "comment"
   # Note: https://utteranc.es/
 
   ## Gitalk
