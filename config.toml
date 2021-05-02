@@ -35,6 +35,13 @@ enableEmoji = true
     name = "date"
     weight = 10
 
+[mediaTypes."application/atom+xml"]
+    suffixes = ["xml"]
+
+[outputFormats.SectionsAtom]
+    mediaType = "application/atom+xml"
+    baseName = "atom"
+
 [outputFormats.SectionsRSS]
   mediaType = "application/rss+xml"
   baseName = "rss"
@@ -46,7 +53,7 @@ enableEmoji = true
 # Hugo’s output control
 [outputs]
   page = ["HTML"]
-  home = ["HTML", "SectionsRSS", "SearchIndex"]
+  home = ["HTML", "SectionsAtom", "SectionsRSS", "SearchIndex"]
   section = ["HTML"]
   taxonomy = ["HTML"]
   term = ["HTML"]
